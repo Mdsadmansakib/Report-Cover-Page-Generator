@@ -33,4 +33,4 @@ streamlit run app.py
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
 ## 🧠 Inspired by
-Manual report formatting struggles in college labs 😄
+Manual report formatting struggles in uni labs 😄
