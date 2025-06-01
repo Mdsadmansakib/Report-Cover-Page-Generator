@@ -6,14 +6,14 @@ A simple and elegant web app to generate lab report cover pages with custom styl
 
 ## 🚀 Features
 
-- 📋 Easy form-based input
-- 🏛️ Supports university name and logo
-- 👨‍🏫 Add professor name, designation, and department
-- 👨‍🎓 Add multiple students or a team
-- 🧪 Add experiment number and name
-- 📆 Custom date selection
-- 📄 Generates a polished **DOCX** or **PDF** cover page
-- 📥 Download the final document instantly
+-  Easy form-based input
+-  Supports university name and logo
+-  Add professor name, designation, and department
+-  Add multiple students or a team
+-  Add experiment number and name
+-  Custom date selection
+-  Generates a polished **DOCX** or **PDF** cover page
+-  Download the final document instantly
 
 ---
 
